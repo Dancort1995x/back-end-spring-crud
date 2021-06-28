@@ -15,7 +15,7 @@ _Requisitos para levantar backend :_
 * uso de algun ide (STS, eclipse,VSCODE..)
 * Conexion con alguna Base de datos (En esta ocasión se utiliza POSTGRESQL
 * Para realizar prueba con la api se requerira de algun software como POSTMAN
-* Sí desea realizar pruebas con una interfaz, descargar el siguiente repositorio: [FronEndAngular](https://github.com/Dancort1995x/front-end-AngularSpring)
+* Sí desea realizar pruebas con una interfaz, descargar el siguiente repositorio: [FrontEndAngular](https://github.com/Dancort1995x/front-end-AngularSpring)
 
 
 ## Referencia del proyecto creado✒️
